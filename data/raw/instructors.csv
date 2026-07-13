@@ -1,0 +1,31 @@
+instructor_id,name,expertise,city,courses_count,avg_rating,joined_date
+INST01,Umi Damayanti,SQL & Data Engineering,Surabaya,2,4.7,2021-12-15
+INST02,Nadia Putra,Excel & Google Sheets,Bandung,1,4.2,2021-04-10
+INST03,Winda Ramadhan,Statistics & Analytics,Jakarta,3,4.8,2023-01-18
+INST04,Kirana Hidayat,Power BI & Tableau,Medan,1,4.6,2023-04-30
+INST05,Mawar Putra,Data Visualization,Yogyakarta,1,4.1,2021-08-22
+INST06,Putri Damayanti,Python & Machine Learning,Jakarta,1,4.4,2022-04-10
+INST07,Indah Ramadhan,Excel & Google Sheets,Jakarta,2,4.7,2022-12-20
+INST08,Adi Rahmawati,Python & Machine Learning,Bandung,5,4.8,2021-06-17
+INST09,Eka Kurniawan,Data Visualization,Jakarta,6,4.6,2022-12-03
+INST10,Vina Pertiwi,SQL & Data Engineering,Bandung,2,4.8,2023-04-05
+INST11,Eka Kurniawan,SQL & Data Engineering,Jakarta,2,4.9,2022-08-04
+INST12,Sari Rahmawati,Power BI & Tableau,Yogyakarta,4,4.9,2022-10-21
+INST13,Nadia Kurniawan,Python & Machine Learning,Bali,2,4.8,2022-07-06
+INST14,Sinta Iskandar,Power BI & Tableau,Surabaya,5,4.5,2021-08-13
+INST15,Hadi Kusuma,SQL & Data Engineering,Bandung,1,4.9,2021-06-06
+INST16,Luthfi Lestari,Power BI & Tableau,Medan,5,4.2,2022-01-26
+INST17,Intan Kurniawan,Statistics & Analytics,Jakarta,1,4.7,2021-04-28
+INST18,Tia Rahmawati,Excel & Google Sheets,Bandung,1,4.4,2021-06-11
+INST19,Siti Cahyani,Data Visualization,Surabaya,3,5.0,2023-02-20
+INST20,Hadi Wulandari,SQL & Data Engineering,Jakarta,6,4.4,2022-10-17
+INST21,Bayu Ramadhan,Python & Machine Learning,Surabaya,5,5.0,2022-06-28
+INST22,Adi Susanto,Power BI & Tableau,Bali,1,4.2,2022-01-07
+INST23,Maya Wijaya,Python & Machine Learning,Jakarta,5,5.0,2021-03-29
+INST24,Vina Saputra,Statistics & Analytics,Yogyakarta,2,4.2,2022-05-02
+INST25,Hendra Maulana,Statistics & Analytics,Jakarta,4,5.0,2022-07-07
+INST26,Ferdi Wibowo,Power BI & Tableau,Jakarta,6,4.7,2022-03-25
+INST27,Ayu Santoso,Python & Machine Learning,Yogyakarta,1,4.4,2022-08-26
+INST28,Surya Santoso,SQL & Data Engineering,Jakarta,1,4.7,2021-03-02
+INST29,Rizky Pramudita,SQL & Data Engineering,Jakarta,3,4.2,2021-09-01
+INST30,Permata Kusuma,Python & Machine Learning,Surabaya,5,4.2,2022-08-08

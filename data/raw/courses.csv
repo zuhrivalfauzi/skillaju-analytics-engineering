@@ -1,0 +1,51 @@
+course_id,title,category,instructor_id,price_idr,duration_hours,level,avg_rating,total_enrolled,created_date,status
+CRS001,MySQL untuk Backend Developer,SQL,INST27,399000,5,intermediate,4.0,184,2021-11-27,draft
+CRS002,Excel untuk HR Analytics,Excel,INST18,499000,21,beginner,4.0,1907,2021-11-02,published
+CRS003,Dashboard Interaktif dengan Power BI,Power BI,INST27,399000,22,beginner,4.5,773,2021-03-23,published
+CRS004,ETL Pipeline dengan Python,Data Engineering,INST07,0,25,intermediate,4.2,1998,2024-02-21,published
+CRS005,Advanced Formulas: INDEX MATCH XLOOKUP,Excel,INST14,599000,27,beginner,4.1,140,2023-04-25,published
+CRS006,Python Dasar untuk Analisis Data,Python,INST06,0,27,beginner,4.8,392,2022-05-24,published
+CRS007,Web Scraping dengan Python,Python,INST06,199000,16,intermediate,4.8,871,2022-12-18,published
+CRS008,Excel Dashboard yang Profesional,Excel,INST27,299000,11,beginner,4.0,471,2022-07-26,published
+CRS009,Power BI Service & Publishing,Power BI,INST21,599000,16,advanced,4.6,428,2021-08-25,published
+CRS010,Python untuk Automasi Excel,Python,INST06,599000,12,advanced,4.0,721,2023-06-13,published
+CRS011,Deep Learning dengan TensorFlow,Python,INST17,199000,16,beginner,4.8,846,2021-01-04,published
+CRS012,Cloud Data Warehouse Fundamentals,Data Engineering,INST30,599000,25,intermediate,4.6,236,2023-06-03,published
+CRS013,SQL Lanjutan: Window Functions,SQL,INST22,399000,23,advanced,4.3,203,2023-11-05,published
+CRS014,Probabilitas untuk Data Science,Statistics,INST22,499000,14,advanced,4.4,830,2023-02-16,published
+CRS015,Python Data Pipeline End-to-End,Python,INST24,299000,23,beginner,4.5,205,2022-08-11,published
+CRS016,SQL untuk Business Intelligence,SQL,INST14,599000,23,advanced,4.6,159,2023-11-13,published
+CRS017,Power BI untuk Sales Analytics,Power BI,INST26,0,29,intermediate,4.7,1079,2022-11-18,published
+CRS018,Statistik Dasar untuk Data Analyst,Statistics,INST27,299000,25,beginner,4.3,447,2022-05-17,published
+CRS019,Modeling Data di Power BI,Power BI,INST20,199000,18,intermediate,4.4,1113,2023-02-26,published
+CRS020,Belajar PostgreSQL dari Dasar,SQL,INST13,299000,8,beginner,4.6,1968,2021-08-07,published
+CRS021,dbt untuk Analytics Engineer,Data Engineering,INST08,299000,29,intermediate,4.9,655,2021-09-06,published
+CRS022,ANOVA & Chi-Square Test,Statistics,INST05,499000,25,intermediate,4.5,1173,2023-06-26,published
+CRS023,Analytical SQL untuk Marketing,SQL,INST27,599000,17,beginner,4.7,293,2023-07-11,published
+CRS024,SQL Joins & Subqueries dari Nol,SQL,INST25,299000,30,intermediate,4.6,370,2022-05-05,published
+CRS025,Python untuk Machine Learning,Python,INST15,199000,26,beginner,4.3,953,2021-06-15,published
+CRS026,Query Optimization untuk Database Besar,SQL,INST05,299000,16,beginner,4.6,817,2022-11-09,published
+CRS027,Time Series Analysis dengan Python,Python,INST14,199000,10,intermediate,4.7,60,2024-03-25,published
+CRS028,Visualisasi Data dengan Matplotlib,Python,INST16,199000,15,advanced,4.3,264,2024-01-08,published
+CRS029,Bayesian Statistics Praktis,Statistics,INST26,599000,11,advanced,4.4,249,2022-11-20,published
+CRS030,Power BI Advanced: Calculated Tables,Power BI,INST24,299000,30,beginner,4.4,1837,2023-12-30,published
+CRS031,SQL untuk Data Analyst Pemula,SQL,INST30,499000,22,intermediate,4.5,1858,2023-05-28,published
+CRS032,Power BI untuk Pemula,Power BI,INST28,0,18,intermediate,4.2,865,2022-11-01,draft
+CRS033,VBA Macro untuk Automasi,Excel,INST25,0,16,advanced,4.3,91,2023-08-22,published
+CRS034,Excel untuk Pemula Banget,Excel,INST24,599000,5,intermediate,4.9,383,2021-03-24,published
+CRS035,Pengenalan Data Engineering,Data Engineering,INST08,299000,30,intermediate,4.0,1085,2021-08-23,published
+CRS036,Regresi Linear & Logistik,Statistics,INST15,399000,28,intermediate,4.3,108,2021-12-02,published
+CRS037,SQL Project: Build Data Warehouse,SQL,INST04,599000,4,beginner,4.8,242,2023-03-24,published
+CRS038,DAX Fundamentals,Power BI,INST03,599000,26,beginner,4.7,204,2024-05-14,published
+CRS039,Apache Airflow untuk Pemula,Data Engineering,INST26,599000,29,advanced,4.0,85,2023-11-03,draft
+CRS040,Statistical Inference dari Nol,Statistics,INST11,199000,17,beginner,4.7,1570,2023-07-31,published
+CRS041,Power Query untuk Data Cleaning,Excel,INST05,499000,9,beginner,4.7,951,2023-09-18,published
+CRS042,Excel untuk Finance Analyst,Excel,INST14,599000,12,intermediate,4.3,192,2023-07-13,published
+CRS043,Hypothesis Testing dengan Praktik,Statistics,INST25,499000,22,advanced,4.5,732,2022-01-08,draft
+CRS044,SQL Server: Stored Procedures,SQL,INST07,399000,29,intermediate,4.2,191,2024-02-13,published
+CRS045,Pandas & NumPy: Data Wrangling,Python,INST17,299000,6,intermediate,4.2,173,2023-09-03,published
+CRS046,Pivot Table & Power Pivot,Excel,INST15,199000,6,beginner,4.3,1079,2024-04-06,published
+CRS047,Data Modeling: Star & Snowflake,Data Engineering,INST16,599000,20,intermediate,4.3,230,2023-07-19,published
+CRS048,Scikit-learn dari Nol,Python,INST10,399000,11,beginner,4.1,948,2022-01-15,published
+CRS049,Power Query M Language,Power BI,INST07,499000,12,intermediate,4.7,194,2021-07-25,draft
+CRS050,A/B Testing untuk Product Manager,Statistics,INST10,299000,15,beginner,4.2,1746,2021-09-17,published
